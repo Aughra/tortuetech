@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktortuetech=self.webpackChunktortuetech||[]).push([[704],{2195:function(t){t.exports=JSON.parse('{"allTagsPath":"/tortuetech/blog/tags","slug":"/tortuetech/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/tortuetech/blog/tags/docusaurus"}')}}]);

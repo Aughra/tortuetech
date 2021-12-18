@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktortuetech=self.webpackChunktortuetech||[]).push([[560],{2682:function(t){t.exports=JSON.parse('{"allTagsPath":"/tortuetech/blog/tags","slug":"/tortuetech/blog/tags/hello","name":"hello","count":2,"permalink":"/tortuetech/blog/tags/hello"}')}}]);
